@@ -23,4 +23,4 @@ function verificaPrimo($num) {
     }
 }
 
-echo(PrimoInferior(15));
+echo(PrimoInferior(201));
